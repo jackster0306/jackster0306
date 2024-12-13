@@ -3,4 +3,4 @@
 
 ### 📈 Stats 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackster0306&layout=compact&hide=language1)](https://github.com/jackster0306)
+[![Top Langs](https://github-stats.vercel.app/api/top-langs/?username=jackster0306)](https://github.com/jackster0306/github-readme-stats)
