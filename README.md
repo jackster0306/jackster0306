@@ -1,4 +1,3 @@
-### Hi there, I'm Jack👋
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=Jack%20Gribble&textBg=false&reversal=true)
 
