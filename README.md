@@ -10,7 +10,7 @@ name: Jack Gribble
 located: Hertfordshire, United Kingdom
 education: Bachelor's in Computer Science
 current_focus: Web Development
-fun_fact: There are 10 kinds of people in the world: those who understand binary and those who don’t
+fun_fact: There are 10 kinds of people in the world - those who understand binary and those who don’t
 ```
 
 ### 📈 Stats 
