@@ -4,6 +4,15 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:jack.gribble0306@gmail.com)
 
 
+### About Me
+```yaml
+name: Jack Gribble
+located: Hertfordshire, United Kingdom
+education: Bachelor's in Computer Science
+current_focus: Web Development
+fun_fact: There are 10 kinds of people in the world: those who understand binary and those who don’t
+```
+
 ### 📈 Stats 
 
 [![Top Langs](https://github-readme-stats-jackster0306.vercel.app/api/top-langs/?username=jackster0306&hide=C)](https://github.com/jackster0306/github-readme-stats)
