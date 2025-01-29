@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=Jack%20Gribble&textBg=false&reversal=true)
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/jack-gribble-295a481b5)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jack.gribble0306@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:jack.gribble0306@gmail.com)
 
 
 ### 📈 Stats 
