@@ -1,5 +1,5 @@
 
-[![header](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=Jack%20Gribble&textBg=false&reversal=true)]
+
 
 ![header](https://github.com/jackster0306/jackster0306/blob/main/hello-world.gif)
 
